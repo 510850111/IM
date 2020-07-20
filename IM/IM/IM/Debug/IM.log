@@ -1,0 +1,21 @@
+﻿  chat_log.c
+g:\im\im\im\im\chat_log.c(10): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+g:\im\im\im\im\chat_log.c(11): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+g:\im\im\im\im\chat_log.c(12): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+g:\im\im\im\im\chat_log.c(13): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+g:\im\im\im\im\chat_log.c(35): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+g:\im\im\im\im\chat_log.c(40): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+g:\im\im\im\im\chat_log.c(40): warning C4024: 'atoi': different types for formal and actual parameter 1
+g:\im\im\im\im\chat_log.c(44): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+g:\im\im\im\im\chat_log.c(44): warning C4024: 'atoi': different types for formal and actual parameter 1
+g:\im\im\im\im\chat_log.c(25): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+g:\im\im\im\im\chat_log.c(58): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+g:\im\im\im\im\chat_log.c(58): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int'
+g:\im\im\im\im\chat_log.c(58): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'int'
+g:\im\im\im\im\chat_log.c(58): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'int'
+  IM.vcxproj -> G:\IM\IM\IM\Debug\IM.exe
+  IM.vcxproj -> G:\IM\IM\IM\Debug\IM.pdb (Full PDB)

@@ -1,0 +1,29 @@
+﻿  list.c
+g:\im\im\client\client\list.h(38): warning C4005: 'offsetof': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stddef.h(40): note: see previous definition of 'offsetof'
+  cusr_cmd.c
+g:\im\im\client\client\list.h(38): warning C4005: 'offsetof': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stddef.h(40): note: see previous definition of 'offsetof'
+  cmsg_enc.c
+g:\im\im\client\client\list.h(38): warning C4005: 'offsetof': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stddef.h(40): note: see previous definition of 'offsetof'
+g:\im\im\client\client\cmsg_enc.c(31): warning C4020: 'strcpy': too many actual parameters
+  cmsg_dec.c
+g:\im\im\client\client\list.h(38): warning C4005: 'offsetof': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stddef.h(40): note: see previous definition of 'offsetof'
+  client_user.c
+g:\im\im\client\client\list.h(38): warning C4005: 'offsetof': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stddef.h(40): note: see previous definition of 'offsetof'
+g:\im\im\client\client\client_user.c(61): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+  client_main.c
+g:\im\im\client\client\list.h(38): warning C4005: 'offsetof': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stddef.h(40): note: see previous definition of 'offsetof'
+  client_log.c
+g:\im\im\client\client\list.h(38): warning C4005: 'offsetof': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stddef.h(40): note: see previous definition of 'offsetof'
+  client_handle.c
+g:\im\im\client\client\list.h(38): warning C4005: 'offsetof': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stddef.h(40): note: see previous definition of 'offsetof'
+  Generating Code...
+  Client.vcxproj -> G:\IM\IM\Client\Debug\Client.exe
+  Client.vcxproj -> G:\IM\IM\Client\Debug\Client.pdb (Full PDB)

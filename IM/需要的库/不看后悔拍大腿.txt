@@ -1,0 +1,8 @@
+请将这两个文件复制到以下文件夹：
+
+64位操作系统：
+C:\Windows\SysWOW64
+
+
+32位操作系统：
+C:\Windows\System32
